@@ -1,1 +1,1 @@
-# Fault-Diganosis
+# Fault-Diagnosis
